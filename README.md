@@ -26,11 +26,11 @@ const options = {
 
 folder: './routes',
 
-middlewares: [ /* array of middleware functions / ],
+middlewares: [ /* array of middleware functions */ ],
 
-params: '{ "param1": "value1", "param2": "value2" }',
+params: { param1: "value1", param2: "value2" },
 
-notfound: (req, res) => { / custom 404 handler function */ },
+notfound: (req, res) => { /* custom 404 handler function */ },
 
 tree: true // display route table
 
