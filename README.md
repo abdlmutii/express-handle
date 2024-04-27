@@ -1,7 +1,5 @@
 # express-handle
 
-<a href="https://discord.gg/8UqPNbeYBv"><img src="https://img.shields.io/discord/1077492444574261339?style=for-the-badge&color=5865F2&logo=discord&logoColor=white&label=Abdlmu'tii" alt="Discord server" /></a><br>
-
 This is a Node.js package that automatically loads routes in an Express app from files in a specified folder. It also allows for customization of middleware and parameters for the loaded routes.
 
 ## Installation
@@ -99,10 +97,7 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Credits
-
-Credits goes to [abdlmutii](https://github.com/abdlmutii), if you like this npm package please remember to check other work i've done on github and `octo star abdlmutii/octoshell` 😉.<br>
+<br>
 
 **Email**: [abdlmutii@outlook.com](mailto:abdlmutii@outlook.com)
 
